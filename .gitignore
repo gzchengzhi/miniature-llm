@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+checkpoints/
+data/mcs_corpus.txt
+notebooks/.ipynb_checkpoints/
